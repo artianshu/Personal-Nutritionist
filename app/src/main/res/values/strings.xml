@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nutritionist</string>
+    <string name="title_activity_feedback">feedback</string>
+    <string name="title_activity_home_final">Home_final</string>
+    <string name="button1">Food Search</string>
+    <string name="button2">Recipie Search</string>
+    <string name="button3">Diet Plan</string>
+    <string name="button4">FeedBack</string>
+    <string name="text1">Enter Food Name</string>
+    <string name="button5">Search</string>
+    <string name="title_activity_recipie_search">RecipieSearch</string>
+    <string name="weightLabel">Weight</string>
+    <string name="heightLabel">Height</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+</resources>
